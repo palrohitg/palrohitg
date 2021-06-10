@@ -35,8 +35,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<br>
+<br>
 
-
+### DevOps: 
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -47,7 +49,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
----
+<br/>
 
 ### Frameworks
 <img align="left" height = "40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
@@ -64,8 +66,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ### Top used language by me on Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palrohitg)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<br />
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@palrohitg/040a9a41-a6ed-4f6d-9a98-2016128789be.png" /></a>
