@@ -29,14 +29,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 ### Languages and Tools:
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Golang" width="40px" src="https://user-images.githubusercontent.com/40069230/208296927-7fff5e7c-342b-4405-a19f-24993b6c05c2.jpg" />
+<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/40069230/121515525-e6776480-ca0a-11eb-9c4b-aad2ac14bcce.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/40069230/121515525-e6776480-ca0a-11eb-9c4b-aad2ac14bcce.png" />
-
-
 <br>
 <br>
 
