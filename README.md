@@ -33,15 +33,6 @@ and memory, evaluation, security, and cost-aware reliability.
 
 - 🔄 [OpenHands/automation#437 — Stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437): records the exact tarball and clean Git commit associated with each claimed automation run.
 
-## 🚀 What I'm building
-
-| Project | What it explores | Stack |
-|---|---|---|
-| [Agentic AI for Backend Engineers](https://github.com/palrohitg/agentic-ai-backend-engineering) | A production-focused roadmap for agent loops, tools, memory, evals, reliability, security, and operations | Python, agent systems |
-| [Redis TCP Command Server](https://github.com/palrohitg/redis-tcp-server) | A modular TCP service with Redis-backed queries, aggregation, rate limiting, and graceful shutdown | Go, Redis |
-| [Log Ingestor](https://github.com/palrohitg/log-ingestor) | Container log ingestion, indexing, filtering, and operational dashboards | Go, Elasticsearch, Kibana |
-| [Transaction Service](https://github.com/palrohitg/loco-transaction) | Parent-child transaction modelling and service design | Go, Gin, MySQL, Docker |
-
 ## 🧰 Engineering interests
 
 ```text
