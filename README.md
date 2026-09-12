@@ -44,10 +44,10 @@ Platform        Docker · AWS · CI/CD · observability · reliability
 
 ## 📊 GitHub activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=palrohitg&show_icons=true&hide_border=true&theme=transparent" alt="Vikas Pal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palrohitg&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
+![Vikas Pal's GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palrohitg&theme=transparent)
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palrohitg&theme=transparent)
+![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palrohitg&theme=transparent)
 
 > I like turning ambiguous production problems into small, reviewable changes with
 > explicit trade-offs and tests.
