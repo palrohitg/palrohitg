@@ -1,69 +1,62 @@
+# Hi, I'm Vikas Pal 👋
 
-### Hi there, I'm Vikas Pal 👋
+### Backend, Platform & Agent Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palrohitg/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://palrohitg.medium.com/)
-![](https://komarev.com/ghpvc/?username=palrohitg&color=dc143c)
+I build reliable backend systems and AI agents that can survive production: clear tool
+contracts, durable state, observable execution, safe retries, and predictable failure
+handling.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas_Pal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palrohitg/)
+[![Medium](https://img.shields.io/badge/Medium-@palrohitg-000000?style=flat-square&logo=medium&logoColor=white)](https://palrohitg.medium.com/)
+[![X](https://img.shields.io/badge/X-@rohitprotobit-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rohitprotobit)
+[![Email](https://img.shields.io/badge/Email-rohitprotobit%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitprotobit@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=palrohitg&color=0e75b6&style=flat-square)
+
+I work on backend and infrastructure problems across distributed systems, APIs,
+databases, observability, performance, and developer tooling. I am currently focused on
+the engineering around production agents: orchestration, sandboxed execution, context
+and memory, evaluation, security, and cost-aware reliability.
+
+- 🛠️ Backend Engineer at Zomato/Blinkit (formerly Grofers)
+- 🤖 Building and studying production-grade agent systems
+- 🌱 Contributing fixes and features to open-source developer tools
+- ✍️ Sharing what I learn through code, design notes, and technical writing
+
+## Open-source contributions
+
+| Organization | Contribution | Status |
+|---|---|---|
+| [OpenHands](https://github.com/OpenHands) | [OpenHands#17179 — Open image attachments at full size](https://github.com/OpenHands/OpenHands/pull/17179) | ✅ Merged |
+| [SynthLuvr](https://github.com/SynthLuvr) | [ts-canon#18 — Fix CLI package migration and remove a dead export](https://github.com/SynthLuvr/ts-canon/pull/18) | ✅ Merged |
+
+### Currently in review
+
+- [OpenHands/automation#437 — Stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437): records the exact tarball and clean Git commit associated with each claimed automation run.
+
+## What I'm building
+
+| Project | What it explores | Stack |
+|---|---|---|
+| [Agentic AI for Backend Engineers](https://github.com/palrohitg/agentic-ai-backend-engineering) | A production-focused roadmap for agent loops, tools, memory, evals, reliability, security, and operations | Python, agent systems |
+| [Redis TCP Command Server](https://github.com/palrohitg/redis-tcp-server) | A modular TCP service with Redis-backed queries, aggregation, rate limiting, and graceful shutdown | Go, Redis |
+| [Log Ingestor](https://github.com/palrohitg/log-ingestor) | Container log ingestion, indexing, filtering, and operational dashboards | Go, Elasticsearch, Kibana |
+| [Transaction Service](https://github.com/palrohitg/loco-transaction) | Parent-child transaction modelling and service design | Go, Gin, MySQL, Docker |
+
+## Engineering interests
+
+```text
+AI agents       Tool use · orchestration · context · evals · guardrails
+Backend         Python · Go · REST APIs · async systems · event-driven design
+Data            PostgreSQL · MySQL · Redis · Elasticsearch
+Platform        Docker · AWS · CI/CD · observability · reliability
+```
+
+## GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=palrohitg&show_icons=true&hide_border=true&theme=transparent" alt="Vikas Pal's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palrohitg&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
-### Glad to see you here!
-<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur) -->
-
-I am a software engineer and writer. I love programming, writing, speaking and reading.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-  
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on Backend + DevOps;
-- 🚀 I’m currently learning about Software Development;
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://palrohitg.medium.com/);
-- 📫 How to reach me: rohitprotobit@gmail.com;
-- ⚡ Fun fact:  <strong>I love making PJ(Poor Jokes) for coders .</strong>
-<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
-
-</br>
-
-### Languages and Tools:
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Golang" width="40px" src="https://user-images.githubusercontent.com/40069230/208296927-7fff5e7c-342b-4405-a19f-24993b6c05c2.jpg" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/40069230/121515525-e6776480-ca0a-11eb-9c4b-aad2ac14bcce.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br>
-<br>
-
-### DevOps: 
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="40px" src="https://user-images.githubusercontent.com/40069230/121513862-f42bea80-ca08-11eb-8120-5513da63a74f.png" />
-<img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/40069230/121514317-803e1200-ca09-11eb-847b-5a285b3d35c5.png" />
-<img align="left" alt="Heroku" width="40px" src="https://user-images.githubusercontent.com/40069230/121514449-a9f73900-ca09-11eb-813a-a0ec5a48e990.png" />
-<img align="left" alt="Azure" width="40px" src="https://user-images.githubusercontent.com/40069230/121514528-c09d9000-ca09-11eb-9550-111cb934212f.jpeg" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br/>
-<br/>
-
-### Frameworks
-<img align="left" height = "40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
-<img align="left" height = "40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />
-<img align="left" height = "40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-
-<br />
-<br />
-
-### Github Stats for Vikas Pal
-
-<img align="left" alt="Vikas Github Stats" src="https://github-readme-stats.vercel.app/api?username=palrohitg&show_icons=true&hide_border=true&theme=radical&&count_private=true&include_all_commits=true" />
-
-### Top used language by me on Github
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palrohitg)](https://github.com/anuraghazra/github-readme-stats)
+> I like turning ambiguous production problems into small, reviewable changes with
+> explicit trade-offs and tests.
