@@ -22,18 +22,18 @@ and memory, evaluation, security, and cost-aware reliability.
 - 🌱 Contributing fixes and features to open-source developer tools
 - ✍️ Sharing what I learn through code, design notes, and technical writing
 
-## Open-source contributions
+## 🌍 Open-source contributions
 
 | Organization | Contribution | Status |
 |---|---|---|
-| [OpenHands](https://github.com/OpenHands) | [OpenHands#17179 — Open image attachments at full size](https://github.com/OpenHands/OpenHands/pull/17179) | ✅ Merged |
-| [SynthLuvr](https://github.com/SynthLuvr) | [ts-canon#18 — Fix CLI package migration and remove a dead export](https://github.com/SynthLuvr/ts-canon/pull/18) | ✅ Merged |
+| 🤖 [OpenHands](https://github.com/OpenHands) | [OpenHands#17179 — Open image attachments at full size](https://github.com/OpenHands/OpenHands/pull/17179) | ✅ Merged |
+| 🧰 [SynthLuvr](https://github.com/SynthLuvr) | [ts-canon#18 — Fix CLI package migration and remove a dead export](https://github.com/SynthLuvr/ts-canon/pull/18) | ✅ Merged |
 
-### Currently in review
+### 👀 Currently in review
 
-- [OpenHands/automation#437 — Stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437): records the exact tarball and clean Git commit associated with each claimed automation run.
+- 🔄 [OpenHands/automation#437 — Stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437): records the exact tarball and clean Git commit associated with each claimed automation run.
 
-## What I'm building
+## 🚀 What I'm building
 
 | Project | What it explores | Stack |
 |---|---|---|
@@ -42,7 +42,7 @@ and memory, evaluation, security, and cost-aware reliability.
 | [Log Ingestor](https://github.com/palrohitg/log-ingestor) | Container log ingestion, indexing, filtering, and operational dashboards | Go, Elasticsearch, Kibana |
 | [Transaction Service](https://github.com/palrohitg/loco-transaction) | Parent-child transaction modelling and service design | Go, Gin, MySQL, Docker |
 
-## Engineering interests
+## 🧰 Engineering interests
 
 ```text
 AI agents       Tool use · orchestration · context · evals · guardrails
@@ -51,7 +51,7 @@ Data            PostgreSQL · MySQL · Redis · Elasticsearch
 Platform        Docker · AWS · CI/CD · observability · reliability
 ```
 
-## GitHub activity
+## 📊 GitHub activity
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=palrohitg&show_icons=true&hide_border=true&theme=transparent" alt="Vikas Pal's GitHub stats" />
