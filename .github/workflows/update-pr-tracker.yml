@@ -2,7 +2,7 @@ name: Update open-source PR tracker
 
 on:
   schedule:
-    - cron: "17 4 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
