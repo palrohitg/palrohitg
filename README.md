@@ -24,14 +24,17 @@ and memory, evaluation, security, and cost-aware reliability.
 
 ## 🌍 Open-source contributions
 
-| Organization | Contribution | Status |
-|---|---|---|
-| 🤖 [OpenHands](https://github.com/OpenHands) | [OpenHands#17179 — Open image attachments at full size](https://github.com/OpenHands/OpenHands/pull/17179) | ✅ Merged |
-| 🧰 [SynthLuvr](https://github.com/SynthLuvr) | [ts-canon#18 — Fix CLI package migration and remove a dead export](https://github.com/SynthLuvr/ts-canon/pull/18) | ✅ Merged |
+<!-- PR-TRACKER:START -->
+| Organization | Pull request | Status | Updated |
+|---|---|---|---|
+| [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#437 — feat: stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437) | 🟡 In review | 2026-09-13 |
+| [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#446 — feat(slack): continue replies in owned threads](https://github.com/OpenHands/automation/pull/446) | 🟡 In review | 2026-09-13 |
+| [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#447 — fix(ci): pull MinIO test image from Quay](https://github.com/OpenHands/automation/pull/447) | ✅ Merged | 2026-09-13 |
+| [OpenHands](https://github.com/OpenHands) | [OpenHands/OpenHands#17179 — feat: click an image attachment to open it full size](https://github.com/OpenHands/OpenHands/pull/17179) | ✅ Merged | 2026-09-11 |
+| [SynthLuvr](https://github.com/SynthLuvr) | [SynthLuvr/ts-canon#18 — fix(cli): migrate the package named by the path; drop the dead "." export](https://github.com/SynthLuvr/ts-canon/pull/18) | ✅ Merged | 2026-09-07 |
 
-### 👀 Currently in review
-
-- 🔄 [OpenHands/automation#437 — Stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437): records the exact tarball and clean Git commit associated with each claimed automation run.
+_Last refreshed 2026-09-13 · Tracking OpenHands, SynthLuvr automatically._
+<!-- PR-TRACKER:END -->
 
 ## 🧰 Engineering interests
 
