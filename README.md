@@ -27,6 +27,7 @@ and memory, evaluation, security, and cost-aware reliability.
 <!-- PR-TRACKER:START -->
 | Organization | Pull request | Status | Updated |
 |---|---|---|---|
+| [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#460 — fix(presets): install SDK into the run virtualenv](https://github.com/OpenHands/automation/pull/460) | 🟡 In review | 2026-09-14 |
 | [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#437 — feat: stamp automation runs with source provenance](https://github.com/OpenHands/automation/pull/437) | 🟡 In review | 2026-09-13 |
 | [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#446 — feat(slack): continue replies in owned threads](https://github.com/OpenHands/automation/pull/446) | 🟡 In review | 2026-09-13 |
 | [OpenHands](https://github.com/OpenHands) | [OpenHands/automation#447 — fix(ci): pull MinIO test image from Quay](https://github.com/OpenHands/automation/pull/447) | ✅ Merged | 2026-09-13 |
