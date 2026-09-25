@@ -34,7 +34,7 @@ and memory, evaluation, security, and cost-aware reliability.
 | [OpenHands](https://github.com/OpenHands) | [OpenHands/OpenHands#17179 — feat: click an image attachment to open it full size](https://github.com/OpenHands/OpenHands/pull/17179) | ✅ Merged | 2026-09-11 |
 | [SynthLuvr](https://github.com/SynthLuvr) | [SynthLuvr/ts-canon#18 — fix(cli): migrate the package named by the path; drop the dead "." export](https://github.com/SynthLuvr/ts-canon/pull/18) | ✅ Merged | 2026-09-07 |
 
-_Last refreshed 2026-09-24 · Tracking OpenHands, SynthLuvr automatically._
+_Last refreshed 2026-09-25 · Tracking OpenHands, SynthLuvr automatically._
 <!-- PR-TRACKER:END -->
 
 ## 🧰 Engineering interests
